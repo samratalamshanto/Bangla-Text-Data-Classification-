@@ -1,5 +1,5 @@
 # Bangla-Text-Data-Classification-
-Here some Deep Learning and Machine Learning approaches are used to classify Bangla Text Data. And there is a summary report about this repository named "model_summary.pdf".
+Here, some Deep Learning and Machine Learning approaches are used to classify Bangla Text Data. And there is a summary report about this repository named "model_summary.pdf".
 
 Comparing multiple model architectures, I got the highest accuracy from Bi-LSTM model for batch_size =128 and the accuracy is 93.50%. The File name is "Num_4_Bangla_Text_Data_Classification_using_Bi_LSTM_(batch_size=128)_93_50_.ipynb".
 
